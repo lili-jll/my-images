@@ -1,0 +1,121 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="800" height="600" fill="#F9FAFB" rx="0" ry="0"/>
+  
+  <!-- 标题 -->
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1A202C">精品微课的七大核心特征</text>
+  
+  <!-- 中心图形 -->
+  <g>
+    <circle cx="400" cy="200" r="80" fill="#FFFFFF" stroke="#10B981" stroke-width="2" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1))"/>
+    <text x="400" y="190" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1A202C">精品微课</text>
+    <text x="400" y="215" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#718096">七大特征</text>
+  </g>
+  
+  <!-- 课的本质特征 -->
+  <g>
+    <rect x="100" y="100" width="180" height="140" rx="10" ry="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1))"/>
+    
+    <!-- 标题 -->
+    <rect x="100" y="100" width="180" height="40" rx="10" ry="10" fill="#F0FDF4"/>
+    <text x="190" y="125" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1A202C">"课"的本质</text>
+    
+    <!-- 特征列表 -->
+    <g>
+      <circle cx="120" cy="160" r="8" fill="#10B981"/>
+      <text x="135" y="165" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">学员明确</text>
+    </g>
+    <g>
+      <circle cx="120" cy="190" r="8" fill="#10B981"/>
+      <text x="135" y="195" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">结构合理</text>
+    </g>
+    <g>
+      <circle cx="120" cy="220" r="8" fill="#10B981"/>
+      <text x="135" y="225" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">内容实用</text>
+    </g>
+  </g>
+  
+  <!-- 微的形态特征 -->
+  <g>
+    <rect x="520" y="100" width="180" height="200" rx="10" ry="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1))"/>
+    
+    <!-- 标题 -->
+    <rect x="520" y="100" width="180" height="40" rx="10" ry="10" fill="#F0FDF4"/>
+    <text x="610" y="125" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1A202C">"微"的形态</text>
+    
+    <!-- 特征列表 -->
+    <g>
+      <circle cx="540" cy="160" r="8" fill="#10B981"/>
+      <text x="555" y="165" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">时间短 (5-8分钟)</text>
+    </g>
+    <g>
+      <circle cx="540" cy="190" r="8" fill="#10B981"/>
+      <text x="555" y="195" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">主题小 (颗粒度小)</text>
+    </g>
+    <g>
+      <circle cx="540" cy="220" r="8" fill="#10B981"/>
+      <text x="555" y="225" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">内容精 (1500-2000字)</text>
+    </g>
+    <g>
+      <circle cx="540" cy="250" r="8" fill="#10B981"/>
+      <text x="555" y="255" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">形式彩 (视频为主)</text>
+    </g>
+  </g>
+  
+  <!-- 实例展示 -->
+  <g>
+    <!-- 好的微课主题示例 -->
+    <rect x="150" y="350" width="220" height="150" rx="10" ry="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1))"/>
+    <rect x="150" y="350" width="220" height="40" rx="10" ry="10" fill="#F0FDF4"/>
+    <text x="260" y="375" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1A202C">好的微课主题示例</text>
+    
+    <g>
+      <circle cx="170" cy="410" r="6" fill="#10B981"/>
+      <text x="185" y="415" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">高效汇报的3个技巧</text>
+    </g>
+    <g>
+      <circle cx="170" cy="440" r="6" fill="#10B981"/>
+      <text x="185" y="445" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">客户异议处理4步法</text>
+    </g>
+    <g>
+      <circle cx="170" cy="470" r="6" fill="#10B981"/>
+      <text x="185" y="475" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">产品演示必备5个话术</text>
+    </g>
+  </g>
+  
+  <!-- 不好的微课主题示例 -->
+  <g>
+    <rect x="430" y="350" width="220" height="150" rx="10" ry="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1))"/>
+    <rect x="430" y="350" width="220" height="40" rx="10" ry="10" fill="#F0FDF4"/>
+    <text x="540" y="375" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1A202C">不好的微课主题示例</text>
+    
+    <g>
+      <circle cx="450" cy="410" r="6" fill="#EF4444"/>
+      <text x="465" y="415" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">沟通技巧 (颗粒度过大)</text>
+    </g>
+    <g>
+      <circle cx="450" cy="440" r="6" fill="#EF4444"/>
+      <text x="465" y="445" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">销售流程 (范围太广)</text>
+    </g>
+    <g>
+      <circle cx="450" cy="470" r="6" fill="#EF4444"/>
+      <text x="465" y="475" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">产品知识 (不够具体)</text>
+    </g>
+  </g>
+  
+  <!-- 连接线 -->
+  <g>
+    <!-- 中心到课的本质 -->
+    <path d="M 340 160 L 280 160" stroke="#10B981" stroke-width="2"/>
+    <!-- 中心到微的形态 -->
+    <path d="M 460 160 L 520 160" stroke="#10B981" stroke-width="2"/>
+    <!-- 中心到好的示例 -->
+    <path d="M 350 250 L 260 350" stroke="#10B981" stroke-width="2" stroke-dasharray="5,3"/>
+    <!-- 中心到不好的示例 -->
+    <path d="M 450 250 L 540 350" stroke="#10B981" stroke-width="2" stroke-dasharray="5,3"/>
+  </g>
+  
+  <!-- 底部注释 -->
+  <text x="400" y="530" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#718096">精品微课的七大核心特征决定了其品质标准</text>
+  <text x="400" y="550" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#718096">基于《微课开发》一书核心观点</text>
+</svg>

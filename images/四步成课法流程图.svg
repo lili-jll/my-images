@@ -1,0 +1,113 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="800" height="600" fill="#F9FAFB" rx="0" ry="0"/>
+  
+  <!-- 标题 -->
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1A202C">四步成课法：精品微课开发流程</text>
+  
+  <!-- 四个主要步骤卡片 -->
+  <!-- 第一步：选定主题 -->
+  <g>
+    <rect x="100" y="120" width="140" height="380" rx="10" ry="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1))"/>
+    <circle cx="170" cy="160" r="30" fill="#10B981" opacity="0.9"/>
+    <text x="170" y="168" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1</text>
+    <text x="170" y="210" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1A202C">选定主题</text>
+    <text x="170" y="235" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#718096">(精确制导)</text>
+    
+    <!-- 内容要点 -->
+    <text x="120" y="270" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 自上而下选题</text>
+    <text x="120" y="300" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 自下而上选题</text>
+    <text x="120" y="330" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 关键岗位分析</text>
+    <text x="120" y="360" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 关键任务梳理</text>
+    <text x="120" y="390" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 颗粒度控制</text>
+    
+    <!-- 交付物 -->
+    <rect x="110" y="420" width="120" height="60" rx="5" ry="5" fill="#F0FDF4" stroke="#10B981" stroke-width="1" stroke-dasharray="2"/>
+    <text x="170" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1A202C">微课选题表</text>
+    <text x="170" y="470" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#718096">交付物</text>
+  </g>
+  
+  <!-- 第二步：萃取内容 -->
+  <g>
+    <rect x="260" y="120" width="140" height="380" rx="10" ry="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1))"/>
+    <circle cx="330" cy="160" r="30" fill="#10B981" opacity="0.9"/>
+    <text x="330" y="168" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#FFFFFF">2</text>
+    <text x="330" y="210" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1A202C">萃取内容</text>
+    <text x="330" y="235" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#718096">(炼金术)</text>
+    
+    <!-- 内容要点 -->
+    <text x="280" y="270" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 梳理微课结构</text>
+    <text x="280" y="300" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 金字塔结构</text>
+    <text x="280" y="330" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 并列结构</text>
+    <text x="280" y="360" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 递进结构</text>
+    <text x="280" y="390" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 专家经验提炼</text>
+    
+    <!-- 交付物 -->
+    <rect x="270" y="420" width="120" height="60" rx="5" ry="5" fill="#F0FDF4" stroke="#10B981" stroke-width="1" stroke-dasharray="2"/>
+    <text x="330" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1A202C">微课内容萃取表</text>
+    <text x="330" y="470" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#718096">交付物</text>
+  </g>
+  
+  <!-- 第三步：设计呈现 -->
+  <g>
+    <rect x="420" y="120" width="140" height="380" rx="10" ry="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1))"/>
+    <circle cx="490" cy="160" r="30" fill="#10B981" opacity="0.9"/>
+    <text x="490" y="168" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="490" y="210" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1A202C">设计呈现</text>
+    <text x="490" y="235" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#718096">(引人入胜)</text>
+    
+    <!-- 内容要点 -->
+    <text x="440" y="270" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 开篇勾起兴趣</text>
+    <text x="440" y="300" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 故事记忆法</text>
+    <text x="440" y="330" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 探索记忆法</text>
+    <text x="440" y="360" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 精加工记忆法</text>
+    <text x="440" y="390" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 峰终定律应用</text>
+    
+    <!-- 交付物 -->
+    <rect x="430" y="420" width="120" height="60" rx="5" ry="5" fill="#F0FDF4" stroke="#10B981" stroke-width="1" stroke-dasharray="2"/>
+    <text x="490" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1A202C">微课脚本</text>
+    <text x="490" y="470" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#718096">交付物</text>
+  </g>
+  
+  <!-- 第四步：技术实现 -->
+  <g>
+    <rect x="580" y="120" width="140" height="380" rx="10" ry="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1))"/>
+    <circle cx="650" cy="160" r="30" fill="#10B981" opacity="0.9"/>
+    <text x="650" y="168" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+    <text x="650" y="210" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1A202C">技术实现</text>
+    <text x="650" y="235" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#718096">(工具与落地)</text>
+    
+    <!-- 内容要点 -->
+    <text x="600" y="270" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• PPT视频制作</text>
+    <text x="600" y="300" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• MG动画制作</text>
+    <text x="600" y="330" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 录屏与真人拍摄</text>
+    <text x="600" y="360" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 音频同步技巧</text>
+    <text x="600" y="390" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">• 辅助工具应用</text>
+    
+    <!-- 交付物 -->
+    <rect x="590" y="420" width="120" height="60" rx="5" ry="5" fill="#F0FDF4" stroke="#10B981" stroke-width="1" stroke-dasharray="2"/>
+    <text x="650" y="450" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1A202C">精品微课成品</text>
+    <text x="650" y="470" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#718096">交付物</text>
+  </g>
+  
+  <!-- 连接箭头 -->
+  <g>
+    <!-- 第一步到第二步 -->
+    <path d="M 240 310 L 260 310" stroke="#10B981" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <!-- 第二步到第三步 -->
+    <path d="M 400 310 L 420 310" stroke="#10B981" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <!-- 第三步到第四步 -->
+    <path d="M 560 310 L 580 310" stroke="#10B981" stroke-width="2" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- 箭头标记定义 -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#10B981"/>
+    </marker>
+  </defs>
+  
+  <!-- 底部注释 -->
+  <text x="400" y="540" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#718096">精品微课开发体系 · 四步成课法</text>
+  <text x="400" y="560" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#718096">基于《微课开发》一书核心方法论</text>
+</svg>

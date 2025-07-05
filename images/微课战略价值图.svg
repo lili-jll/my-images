@@ -1,0 +1,92 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="800" height="600" fill="#F9FAFB" rx="0" ry="0"/>
+  
+  <!-- 标题 -->
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1A202C">微课：企业知识管理的战略工具</text>
+  
+  <!-- 中心图形：微课 -->
+  <g>
+    <circle cx="400" cy="200" r="70" fill="#10B981" opacity="0.9"/>
+    <text x="400" y="190" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#FFFFFF">精品微课</text>
+    <text x="400" y="215" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#FFFFFF">标准化数字资产</text>
+  </g>
+  
+  <!-- 三大矛盾及解决方案 -->
+  <!-- 工教矛盾 -->
+  <g>
+    <rect x="100" y="320" width="180" height="200" rx="10" ry="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1))"/>
+    
+    <!-- 矛盾标题 -->
+    <rect x="100" y="320" width="180" height="50" rx="10" ry="10" fill="#F0FDF4"/>
+    <text x="190" y="350" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1A202C">工教矛盾</text>
+    
+    <!-- 矛盾描述 -->
+    <text x="110" y="385" font-family="Arial, sans-serif" font-size="14" fill="#718096">业务专家没有时间</text>
+    <text x="110" y="405" font-family="Arial, sans-serif" font-size="14" fill="#718096">重复进行教学分享</text>
+    
+    <!-- 分隔线 -->
+    <line x1="110" y1="420" x2="270" y2="420" stroke="#E2E8F0" stroke-width="1"/>
+    
+    <!-- 解决方案 -->
+    <text x="110" y="445" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#10B981">解决方案:</text>
+    <text x="110" y="470" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">一次性萃取经验</text>
+    <text x="110" y="490" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">实现异步传承</text>
+  </g>
+  
+  <!-- 工学矛盾 -->
+  <g>
+    <rect x="310" y="320" width="180" height="200" rx="10" ry="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1))"/>
+    
+    <!-- 矛盾标题 -->
+    <rect x="310" y="320" width="180" height="50" rx="10" ry="10" fill="#F0FDF4"/>
+    <text x="400" y="350" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1A202C">工学矛盾</text>
+    
+    <!-- 矛盾描述 -->
+    <text x="320" y="385" font-family="Arial, sans-serif" font-size="14" fill="#718096">员工在KPI压力下</text>
+    <text x="320" y="405" font-family="Arial, sans-serif" font-size="14" fill="#718096">无法脱产学习</text>
+    
+    <!-- 分隔线 -->
+    <line x1="320" y1="420" x2="480" y2="420" stroke="#E2E8F0" stroke-width="1"/>
+    
+    <!-- 解决方案 -->
+    <text x="320" y="445" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#10B981">解决方案:</text>
+    <text x="320" y="470" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">短小精彩内容</text>
+    <text x="320" y="490" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">碎片化学习</text>
+  </g>
+  
+  <!-- 学用矛盾 -->
+  <g>
+    <rect x="520" y="320" width="180" height="200" rx="10" ry="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.1))"/>
+    
+    <!-- 矛盾标题 -->
+    <rect x="520" y="320" width="180" height="50" rx="10" ry="10" fill="#F0FDF4"/>
+    <text x="610" y="350" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1A202C">学用矛盾</text>
+    
+    <!-- 矛盾描述 -->
+    <text x="530" y="385" font-family="Arial, sans-serif" font-size="14" fill="#718096">"学时用不上</text>
+    <text x="530" y="405" font-family="Arial, sans-serif" font-size="14" fill="#718096">用时已忘光"</text>
+    
+    <!-- 分隔线 -->
+    <line x1="530" y1="420" x2="690" y2="420" stroke="#E2E8F0" stroke-width="1"/>
+    
+    <!-- 解决方案 -->
+    <text x="530" y="445" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#10B981">解决方案:</text>
+    <text x="530" y="470" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">即需即学</text>
+    <text x="530" y="490" font-family="Arial, sans-serif" font-size="14" fill="#1A202C">知识应用无缝衔接</text>
+  </g>
+  
+  <!-- 连接线 -->
+  <g>
+    <!-- 中心到工教矛盾 -->
+    <path d="M 350 230 L 190 320" stroke="#10B981" stroke-width="2" stroke-dasharray="5,3"/>
+    <!-- 中心到工学矛盾 -->
+    <path d="M 400 270 L 400 320" stroke="#10B981" stroke-width="2" stroke-dasharray="5,3"/>
+    <!-- 中心到学用矛盾 -->
+    <path d="M 450 230 L 610 320" stroke="#10B981" stroke-width="2" stroke-dasharray="5,3"/>
+  </g>
+  
+  <!-- 底部注释 -->
+  <text x="400" y="550" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#718096">微课作为战略工具解决企业知识管理三大核心矛盾</text>
+  <text x="400" y="570" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#718096">基于《微课开发》一书核心观点</text>
+</svg>
